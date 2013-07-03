@@ -3866,3 +3866,10 @@ body.vjs-full-window {
 .mal {
   margin-left: 20px;
 }
+.container {
+  margin-bottom: 50px;
+}
+img.img-polaroid {
+  width: 400px;
+  height: 225px;
+}
